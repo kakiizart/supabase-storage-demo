@@ -1,4 +1,4 @@
-# Supabase Storage Demo  
+# Supabase Storage Demo(Non-functioning Version)
 This project is a simple web front-end (Vanilla JS + Vite + Express) for Supabase Storage.  
 It lets you:
 - Create a new S3 bucket in Supabase
